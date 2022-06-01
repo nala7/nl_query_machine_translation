@@ -1,6 +1,7 @@
 # Traducción de Lenguaje Natural a Lenguaje SQL
 
 > [Repositorio de GitHub](https://github.com/nala7/nl_query_machine_translation.git)
+>
 > [Informe](https://github.com/nala7/nl_query_machine_translation/blob/main/doc/Latex%20Report/typeinst.pdf)
 
 ## Miembros del Equipo:
