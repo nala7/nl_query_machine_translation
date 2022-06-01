@@ -1,0 +1,45 @@
+
+\documentclass[runningheads,a4paper]{llncs}
+
+\usepackage{amssymb}
+\setcounter{tocdepth}{3}
+\usepackage{graphicx}
+
+\usepackage{url}
+\urldef{\mailsa}\path|{alfred.hofmann, ursula.barth, ingrid.haas, frank.holzwarth,|
+	\urldef{\mailsb}\path|anna.kramer, leonie.kunz, christine.reiss, nicole.sator,|
+	\urldef{\mailsc}\path|erika.siebert-cole, peter.strasser, lncs}@springer.com|    
+\newcommand{\keywords}[1]{\par\addvspace\baselineskip
+	\noindent\keywordname\enspace\ignorespaces#1}
+
+\begin{document}
+	
+	\mainmatter 
+	\title{Traducción de Lenguaje Natural a Lenguaje SQL}
+	%
+	\titlerunning{Traducción de Lenguaje Natural a Lenguaje SQL}
+	%
+	\author{Nadia González Fernández \\ José Alejandro Labourdette-Lartigue Soto}
+	%
+	\authorrunning{Nadia González Fernández, José Alejandro Labourdette-Lartigue Soto}
+	% 
+	\institute{Ciencias de la Computaci\'on, \\
+		Facultad de Matem\'atica y Computaci\'on, \\
+		Universidad de La Habana, La Habana, Cuba}
+	%
+	\toctitle{Traducción de Lenguaje Natural a Lenguaje SQL}
+	\tocauthor{Nadia González Fernández, José Alejandro Labourdette-Lartigue Soto}
+	\maketitle
+
+	
+	\section{Problema}
+	Se tiene un sistema integrador de usuarios de La Universidad de La Habana. Este contiene la informaci\'on de todos los estudiantes y trabajadores de la instituci\'on y es usado por personal de recursos humanos. Se desea que los usuarios no especializados puedan realizar  consultas SQL a la base de datos para incrementar la autonom\'ia de los usuarios y limitar la dependencia de personal externo. Esto disminuir\'ia el tiempo necesario para acceder a informaci\'on y la har\'ia m\'as asequible.
+
+
+	\section{Objetivo}
+	Se desea hacer in traductor autom\'atico de consultas en lenguaje natural hechas por los usuarios a consultas SQL que el sistema entienda.
+	
+	\section{Primera Soluci\'on}
+	Generar las posibles consultas SQL y traducirlas a lenguaje natural. A partir de esta traducci\'on, se utiliza la t\'ecnica de par\'afrasis mec\'anica y se generan las posibles consultas en lenguaje natural.
+	
+\end{document}
