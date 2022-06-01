@@ -1,4 +1,4 @@
-# Traducción de Lenguaje Natural a Queries SQL
+# Traducción de Lenguaje Natural a Lenguaje SQL
 
 > [Repositorio de GitHub](https://github.com/nala7/nl_query_machine_translation.git)
 
@@ -13,3 +13,4 @@ El proyecto consiste en automatizar la traducción de consultas en lenguaje natu
 ## Impacto en Investigaciones
 
 La implementación formará parte de la tesis de diploma de la estudiante Nadia González Fernández. Esta consiste en un sistema integrador de todos los usuarios registrados en La Universidad de La Habana.
+
