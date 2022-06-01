@@ -1,10 +1,10 @@
 # Traducción de Lenguaje Natural a Queries SQL
 
-> Repositorio de github: https://github.com/nala7/nl_query_machine_translation.git
+> [Repositorio de GitHub](https://github.com/nala7/nl_query_machine_translation.git)
 
 ## Miembros del Equipo:
-- Nadia González Fernández C512 https://github.com/nala7
-- José Alejandro Labourdette-Lartigue Soto C512 https://github.com/alejandrolabourdette
+- Nadia González Fernández C512 [GitHub link](https://github.com/nala7), [Telegram Alias](https://t.me/NadiaGlez)
+- José Alejandro Labourdette-Lartigue Soto C512 [GitHub Link](https://github.com/alejandrolabourdette), [Telegram Link](https://t.me/ALabourdette)
 
 ## Breve Resumen
 
