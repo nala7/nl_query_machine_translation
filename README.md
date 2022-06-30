@@ -12,6 +12,7 @@
 
 - Nadia González Fernández C512 (https://github.com/nala7), (@NadiaGlez)
 - José Alejandro Labourdette-Lartigue Soto C512 (https://github.com/alejandrolabourdette), (@ALabourdette)
+- Javier Alejandro Valdés González C511 (https://github.com/jvaldesgonzalez), (@jvaldesgonzalez)
 
 
 ## Otras asignaturas o investigación en los que impacte el proyecto
